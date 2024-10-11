@@ -34,6 +34,7 @@ export default [
         { allowConstantExport: true },
         
       ],
+      "eslint-disable react/prop-types":false,
     
     },
   },
