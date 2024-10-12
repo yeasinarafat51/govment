@@ -7,7 +7,7 @@ const SectionTitle = ({ children, gradient, className }) => {
   return (
     <h1
     className={cn(
-      "text-2xl md:text-[35px] lg:text-[46px] md:leading-[45px] lg:leading-[58.7px] font-bold font-space-grotesk text-center",
+      "text-2xl md:text-[35px] lg:text-[40px] md:leading-[45px] lg:leading-[58.7px] font-bold font-space-grotesk text-center",
       className
     )}
   >

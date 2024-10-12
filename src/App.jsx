@@ -1,17 +1,17 @@
 
-import './App.css'
-import Button from './components/common/Button'
-import Navbar from './Navbar'
+
+
 import Footer from './shared/Footer'
+import Navbar from './shared/Navbar'
 
 function App() {
 
 
   return (
-    <>
-      <Navbar/>
+    <main className='bg-cyan-400'>
+     <Navbar/>
       <Footer/>
-    </>
+    </main>
   )
 }
 
