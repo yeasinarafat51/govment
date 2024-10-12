@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import { cn } from "../../lib/uliti"
+import GradientText from "./GradientText"
 
 
 const SectionTitle = ({ children, gradient, className }) => {
