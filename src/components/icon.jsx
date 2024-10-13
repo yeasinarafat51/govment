@@ -15,7 +15,7 @@ export const Arrow = (props) => (
       />
     </svg>
   );
-  
+//   star
   export const Star = (props) => (
     <svg
       width="22"
