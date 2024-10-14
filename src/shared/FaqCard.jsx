@@ -23,4 +23,3 @@ export const FaqCard = ({ a, q, isActive, onClick }) => {
     </div>
   );
 };
-// hdg

@@ -35,7 +35,7 @@ export const Footer = () => {
 
         <div className="footer-border-top border-t border-transparent mt-[20px] md:mt-[50px] lg:mt-[106px]">
           <p className="text-center text-sm sm:text-lg leading-[18px] text-[#111111] py-5 border-t ">
-            Ai GoverningDocs 2024. All Rights Reserved.
+            Ai GoverningDocs 2024. All Rights Reservedes.
           </p>
         </div>
       </Container>
